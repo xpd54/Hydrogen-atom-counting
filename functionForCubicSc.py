@@ -7,8 +7,8 @@ Tested and Debugged on "Python 2.7.3 [GCC 4.6.3] on linux2" '''
 
 ''' 
 	programm for solving Quartic Equation.
-	It will read input from " data.txt ".
-	And write ans in " output.txt "
+	It will read input from " inputSolutionForCubicSc.txt ".
+	And write ans in " SolutionForCubicSc.txt "
 '''
 
 import math
