@@ -1,0 +1,10 @@
+follow the steps
+make sure you are using ubuntu or any other linux machine
+1. Press ctrl + alt + t to open terminal 
+2. Use 'cd' commmand to go in the project folder. "  'cd folder_name' for into the folder and 'cd ..' for out of the folder"
+3. Now type "gcc main.c -lm" it will generate a.out file if no error is shown in terminal
+4. "script result.txt" enter
+5. "./a.out" enter
+6. Now follow the instruction on terminal.
+7. At last press "ctrl + d" it will generate "result.txt" file in folder
+8. Now you can copy the result text from "result.txt" file 
